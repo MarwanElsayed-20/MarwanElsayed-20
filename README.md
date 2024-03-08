@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am marwan, A dedicated full-stack developer using MERN.
+I am Marwan, A dedicated full-stack developer using MERN.
 
 
 ## 🌐 Socials:
@@ -11,10 +11,3 @@ I am marwan, A dedicated full-stack developer using MERN.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=MarwanElsayed-20&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
