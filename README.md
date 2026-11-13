@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://marwanelsayed.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=620&height=50&lines=Front-End+Engineer+%C2%B7+React+%26+Next.js;Online+stores%2C+SaaS+products+and+dashboards;4+years+of+shipping+real+client+work" alt="Front-End Engineer · React & Next.js" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=620&height=50&lines=Front-End+Engineer+%C2%B7+React+%26+Next.js;Online+stores%2C+SaaS+products+and+dashboards;3%2B+years+of+shipping+real+client+work" alt="Front-End Engineer · React & Next.js" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-- 🧑‍💻 **Front-end engineer** in Cairo, Egypt, with **4 years** of building websites, online stores
+- 🧑‍💻 **Front-end engineer** in Cairo, Egypt, with **3+ years** of building websites, online stores
   and web applications with **React, Next.js and TypeScript**.
 - 🛒 Right now I work on a **headless e-commerce SaaS platform**: B2B customer portals, a merchant
   admin and the storefronts that run on it.
