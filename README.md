@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://marwanelsayed.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=620&height=50&lines=Front-End+Engineer+%C2%B7+React+%26+Next.js;Online+stores%2C+SaaS+products+and+dashboards;3%2B+years+of+shipping+real+client+work" alt="Front-End Engineer · React & Next.js" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=620&height=50&lines=Front-End+Engineer+%C2%B7+React+%26+Next.js;Online+stores%2C+SaaS+products+and+dashboards;Real+client+work%2C+shipped+to+production" alt="Front-End Engineer · React & Next.js" />
   </a>
 </p>
 
@@ -12,16 +12,16 @@
   <a href="mailto:hello@marwanelsayed.com"><img src="https://img.shields.io/badge/Email-hello%40marwanelsayed.com-D14836?style=for-the-badge" alt="Email" /></a>
 </p>
 
-## 💫 About Me
+## About Me
 
-- 🧑‍💻 **Front-end engineer** in Cairo, Egypt, with **3+ years** of building websites, online stores
-  and web applications with **React, Next.js and TypeScript**.
-- 🛒 Right now I work on a **headless e-commerce SaaS platform**: B2B customer portals, a merchant
+- **Front-end engineer** in Cairo, Egypt, building websites, online stores and web applications
+  with **React, Next.js and TypeScript**.
+- Right now I work on a **headless e-commerce SaaS platform**: B2B customer portals, a merchant
   admin and the storefronts that run on it.
-- 🧩 I like complex business workflows: ERP interfaces, admin dashboards, checkout and quoting
+- I like complex business workflows: ERP interfaces, admin dashboards, checkout and quoting
   flows, and making them fast and easy to use.
-- ⚙️ Comfortable on the back end too: Node.js, Express, NestJS, PostgreSQL and MongoDB.
-- 🔒 Most of my client work lives in private repositories. Every project has a case study on
+- Comfortable on the back end too: Node.js, Express, NestJS, PostgreSQL and MongoDB.
+- Most of my client work lives in private repositories. Every project has a case study on
   **[my portfolio →](https://marwanelsayed.com/work)**
 
 ## 💻 Tech Stack
